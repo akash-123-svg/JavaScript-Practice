@@ -22,3 +22,9 @@ console.log(valueisloggedIn);
 // 1=>true, 0=>false;
 // "" => false;
 // "Akash" => true;
+
+let someNumber= 46
+
+let stringNumber = String(someNumber)
+console.log(stringNumber)
+console.log(typeof stringNumber)
