@@ -7,4 +7,7 @@
 
 // Arrays,objects,functions
 
+// stack (primitive ) , heap (Non-primitive) 
+
+
 
